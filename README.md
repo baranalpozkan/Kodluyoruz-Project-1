@@ -8,7 +8,7 @@
 - Data is intuitevely analyzed
 - Data is cleansed and encoded for model preparation
 - XGBoost Regression Model is created and applied succesfully.
-- Model deployed on Streamlink and visualized for 3rd party user usage.
+- Model deployed on Streamlit and visualized for 3rd party user usage.
 
 
 ## Project Developers
