@@ -1,6 +1,7 @@
 # KODLUYORUZ PROJECT 1
 
 ## XGB Model & Streamlit App
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py)
 
 **Main Goal**: This tool allows consumers to make a prediction about the sales price of house in terms of the features they want. 
 
