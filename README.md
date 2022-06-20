@@ -15,7 +15,7 @@
 ## Project Developers
 
 - Baranalp ÖZKAN
-  - [Linkedin](https://www.linkedin.com/in/baranalpozkan/)
+  - [![Linkedin](https://www.linkpicture.com/view.php?img=LPic62b0a0ceeb6271499189866)(https://www.linkedin.com/in/baranalpozkan/)
   - [Github](https://github.com/baranalpozkan)
 - Enes BOL
   - [Linkedin](https://www.linkedin.com/in/enesbol/)
