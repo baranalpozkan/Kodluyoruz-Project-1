@@ -16,7 +16,7 @@
 - Baranalp ÖZKAN
   - [Linkedin]()(https://www.linkedin.com/in/baranalpozkan/)
   - [Github]()(https://github.com/baranalpozkan)
-- Eren BOL
+- Enes BOL
   - [Linkedin]()(https://www.linkedin.com/in/enesbol/)
   - [Github]()(https://github.com/enesbol)
 - Ömer TOPÇU
