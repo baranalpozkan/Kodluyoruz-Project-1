@@ -15,6 +15,7 @@
 ## Project Developers
 
 - Baranalp ÖZKAN
+- [![h6XxZN.md.png](https://iili.io/h6XxZN.md.png)](https://freeimage.host/i/h6XxZN)
   - [![Linkedin](https://freeimage.host/i/h6XxZN)](https://www.linkedin.com/in/baranalpozkan/)
   - [Github](https://github.com/baranalpozkan)
 - Enes BOL
